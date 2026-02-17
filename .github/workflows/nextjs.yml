@@ -32,8 +32,8 @@ jobs:
       - name: Build movies site
         run: npm run build
         env:
-          BASEPATH: /playwright-movies-app
-          NEXT_PUBLIC_BASEPATH: /playwright-movies-app
+          BASEPATH: /movies-app
+          NEXT_PUBLIC_BASEPATH: /movies-app
       - name: List build directory (debugging)
         run: ls -la movies-app/out
       - name: Upload artifact
