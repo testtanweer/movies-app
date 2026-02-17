@@ -1,4 +1,4 @@
-# Playwright Movies App
+# Playwright Movies App : Test
 
 This repository provides a comprehensive guide to writing end-to-end tests with [Playwright](https://playwright.dev/), covering a wide range of scenarios to ensure your application is robust and reliable. Learn how to write tests for Authentication, Search, Sorting, API and API mocking, ARIA snapshots, and more.
 
